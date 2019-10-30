@@ -4,7 +4,7 @@ This micro service is to create a REST Api using springboot to support CRUD oper
 
 Prerequisites:
 --------------
-1) Install JDK, JRE and maven installed in your machine
+1) Install JDK, JRE and maven in your machine
 
 2)Install Spring Tool Suite(STS)
 link: https://spring.io/tools
